@@ -13,6 +13,7 @@ Thumbs.db
 # Frontend
 frontend/node_modules/
 frontend/dist/
+frontend/.git_frontend_backup/
 
 # Backend
 backend/target/
